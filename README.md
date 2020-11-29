@@ -17,7 +17,7 @@ Commands to run this virtualEnv:
 
 go to that dir , then open cmd there and write this command:
 
-virtualenv -p python3 <virtualEnvName>
+virtualenv -p python3 [virtualEnvName]
     
 for example:
 virtualenv -p python3 djangoenv
