@@ -3,6 +3,7 @@
 This is my First Django project.
 
 if you decided to run this , first install python:
+
 download link for windows:
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 
@@ -25,4 +26,4 @@ go to the Scripts/ and open cmd there:
 and type: 
 activate
 
-the it is activated and you can use my project as well.
+then it is activated and you can use my project as well.
