@@ -10,6 +10,7 @@ https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 Commands to install virtualEnv (Windows):
 
 pip install virtualenv
+
 pip install virtualenvwrapper
 
 Commands to run this virtualEnv:
